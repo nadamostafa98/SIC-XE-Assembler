@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1557797343 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\main.cpp
+	"include/parsing.h"
+	"include/addressList.h"
+	"include/output1.h"
+	"include/output2.h"
+	"include/output3.h"
+	"include/oCode.h"
+	"include/oProgram.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<regex>
+
+1557794452 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\parsing.h
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<regex>
+
+1557574987 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\addresslist.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+	<cmath>
+	<unordered_map>
+
+1557575911 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\output1.h
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<windows.h>
+
+1557575007 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\ocode.h
+	<cstring>
+	<bits/stdc++.h>
+
+1557575018 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\oprogram.h
+	<cstring>
+	<bits/stdc++.h>
+
+1557585557 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passone\src\addresslist.cpp
+	"addressList.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+	<sstream>
+	<cmath>
+	<unordered_map>
+	<stdio.h>
+	<string.h>
+	<regex>
+
+1557795521 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passone\src\output1.cpp
+	"../../include/output1.h"
+	"../../include/addressList.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1557794148 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passone\src\parsing.cpp
+	"../../include/parsing.h"
+	"../../include/output1.h"
+	<iostream>
+	<string>
+	<regex>
+	<bits/stdc++.h>
+	<fstream>
+
+1557797574 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passtwo\src\ocode.cpp
+	"../../include/oCode.h"
+	<cstring>
+	<cmath>
+	<unordered_map>
+	<bits/stdc++.h>
+
+1557574972 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passtwo\src\oprogram.cpp
+	"oProgram.h"
+	"oCode.h"
+	<cstring>
+	<cmath>
+	<unordered_map>
+	<bits/stdc++.h>
+
+1557795666 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\passtwo\src\output2.cpp
+	"../../include/output2.h"
+	"../../include/addressList.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1557794220 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\output2.h
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<windows.h>
+
+1557794257 d:\nada\collegework\csedterm4\systems programming\project\assemble\include\output3.h
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<windows.h>
+
+1557798375 source:d:\nada\collegework\csedterm4\systems programming\project\assemble\src\output3.cpp
+	"../include/output3.h"
+	"../include/addressList.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
